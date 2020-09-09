@@ -47,3 +47,6 @@ def choose_step_0(msg):
     
 if __name__=='__main__':
     bot.polling(none_stop=True)
+
+
+    
